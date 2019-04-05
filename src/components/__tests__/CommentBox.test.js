@@ -4,7 +4,7 @@ import CommentBox from '../CommentBox';
 
 import { createStore } from 'redux';
 import { Provider } from 'react-redux';
-import reducers from '.../reducers';
+import reducers from '../../reducers';
 
 // Full rendering 
 let wrapped;
